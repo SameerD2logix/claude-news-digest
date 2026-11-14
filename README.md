@@ -53,4 +53,4 @@ Tests are offline: the Claude call is replaced by a fake client.
 
 ## Author
 
-**Sameer Hussain**, [D2Logix](https://d2logix.com). The same idea powers an automated news-to-social-media pipeline.
+**Sameer Hussain** · [LinkedIn](https://www.linkedin.com/in/sameer-hussain-87368a164) · [D2Logix](https://d2logix.com). The same idea powers an automated news-to-social-media pipeline.
