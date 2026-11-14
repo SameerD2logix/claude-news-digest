@@ -1,0 +1,10 @@
+# Add or remove feeds freely. Any RSS or Atom URL works.
+feeds:
+  - name: Anthropic News
+    url: https://www.anthropic.com/rss.xml
+  - name: Hacker News (front page)
+    url: https://hnrss.org/frontpage
+  - name: TechCrunch AI
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+  - name: The Verge AI
+    url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
